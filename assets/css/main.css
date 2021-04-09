@@ -19697,6 +19697,7 @@ a.close.disabled {
   padding: 0.3rem 1rem;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
+  background: white;
 }
 
 /* line 9, src/assets/scss/components/_components.header.scss */
